@@ -6,7 +6,3 @@ date: 2022-01-10
 venue: 'Journal of Shanghai Jiao Tong University'
 paperurl: 'http://peng1wang.github.io/paper1.pdf'
 ---
-
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://peng1wang.github.io/paper1.pdf)
