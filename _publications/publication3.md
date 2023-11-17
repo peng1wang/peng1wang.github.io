@@ -1,9 +1,9 @@
 ---
-title: "Probabilistic power curve estimation based on meteorological factors and density LSTM"
-collection: publications
-excerpt: 'Wind power curve describes the relationship between wind speed and wind power output, which is useful for wind farm design and wind turbine condition monitoring. However, most research on power curves modeling neglected the effect of historical meteorological factors. Also, the research on probabilistic power curve is still limited. Therefore, this paper proposes a novel probabilistic power curve modeling approach. The effect of both current and historical meteorological variables, such as wind speed, wind direction, ambient temperature and turbulence intensity, on the power curve is studied by binning method and kernel density estimation. Next, instead of forecasting the wind power or its quantiles, a new probabilistic power curve model, Density LSTM with Negative Log-Likelihood Loss, is proposed to forecast the parameters of the probability density function of wind power directly. Finally, different probability distribution of wind power output is studied. Gamma, Laplace and Weibull distributions prove to be more suitable than Gaussian distribution. Based on the datasets of inland and offshore wind farms, it is verified that adding useful historical meteorological variables can improve the forecasting performance of the test dataset. Besides, the proposed probabilistic power curve can effectively improve the prediction performance in the probabilistic prediction task and can improve the prediction precision of the annual energy production.'
-date: 2023-01-19
-venue: 'Energy (IF: 9)'
-paperurl: 'http://peng1wang.github.io/paper2.pdf'
-weburl: 'https://www.sciencedirect.com/science/article/pii/S0360544223001627'
+title: "A Directional Monitoring Approach of Sequential Incomplete Wind Power Curves with Copula-based Variational Inference"
+collection: arxiv
+excerpt: 'Wind turbines often work under complex conditions which result in performance degradation. Accurate performance degradation monitoring is essential to ensure the reliable operation of wind turbines and reduce the maintenance costs. Wind turbine power curve monitoring is an effective way to detect performance degradation. However, due to the intermittency and fluctuation of wind speed, the wind speed range varies at different time periods, making power curves difficult to compare. Motivated by this, we proposed copula-based variational inference framework and used it to establish a sequential incomplete wind power curve estimation algorithm. First, a monotone power curve is constructed based on copula-based variational inference and integrated spline regression model. Besides, the prior distribution of model parameters are sequentially updated. Then, a directional control chart based on a new statistic named KLdivergence factor is constructed to monitor wind turbine performance degradation. The real data of a wind farm in the east of the United Kingdom shows that the proposed method can both improve the accuracy of wind turbine power curve modeling and monitor wind turbine performance degradation more precisely and comprehensively than the existing approaches.'
+date: 2023-11-04
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2311.02411.pdf'
+weburl: 'https://arxiv.org/abs/2311.02411'
 ---
