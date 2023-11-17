@@ -5,4 +5,5 @@ excerpt: 'Wind power generation has uncertainty due to the high fluctuation of w
 date: 2022-01-10
 venue: 'Journal of Shanghai Jiao Tong University'
 paperurl: 'http://peng1wang.github.io/paper1.pdf'
+weburl: 'https://xuebao.sjtu.edu.cn/CN/10.16183/j.cnki.jsjtu.2021.377'
 ---
