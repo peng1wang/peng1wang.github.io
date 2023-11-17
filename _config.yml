@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Peng / Personal Website"
+title                    : "Wang Peng"
 title_separator          : "-"
 name                     : &name "Wang Peng"
 description              : &description "personal description"
