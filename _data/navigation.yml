@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /year-archive/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Contact"
     url: /markdown/
