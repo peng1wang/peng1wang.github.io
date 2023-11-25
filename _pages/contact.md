@@ -3,7 +3,7 @@ permalink: /contact/
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /contact.html
 ---
 
 * Email: a17762062495@sjtu.edu.cn
