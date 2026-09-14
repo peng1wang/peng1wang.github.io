@@ -47,4 +47,4 @@ Python, PyTorch, Transformers, Large-Scale Optimization, Foundation Models, Agen
 
 ## Contact
 
-[pwang341@usc.edu](mailto:pwang341@usc.edu) · [GitHub](https://github.com/peng1wang)
+[pwang341@usc.edu](mailto:pwang341@usc.edu) · [GitHub](https://github.com/peng1wang) · [LinkedIn](https://www.linkedin.com/in/peng-wang-841996323/)
