@@ -1,12 +1,12 @@
 ---
-permalink: /contact/
+layout: single
 title: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /contact.html
 ---
 
-* Email: a17762062495@sjtu.edu.cn
-* Location: 800 Dongchuan Road, Minhang District; Shanghai 200240, P.R. China
-* Phone: +86 18621813360
+**Peng (Ethan) Wang**<br>
+PhD Candidate, Industrial and Systems Engineering<br>
+University of Southern California · Los Angeles, CA
+
+[Email: pwang341@usc.edu](mailto:pwang341@usc.edu) · [GitHub](https://github.com/peng1wang)

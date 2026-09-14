@@ -1,15 +1,35 @@
 ---
+layout: null
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Peng (Ethan) Wang | Industrial AI Research"
+redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome! I am a master student at the [Industrial Engineering and Management](https://ieem.sjtu.edu.cn/en/) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn). I also served as the summer intern at [Hong Kong University Of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn). I have always been fascinated by applied machine learning and its real-world applications.
-
-My current research interests are High dimensional statistics for statistical process control, Bayesian causal inference and its application.
-
-Outside of academics, my hobbies include music, jogging and traveling. I tend to have rather imaginative ideas and thoroughly enjoy exploring novel concepts.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peng (Ethan) Wang — Industrial AI Research</title>
+<meta name="description" content="Peng (Ethan) Wang, PhD candidate at USC. Research in domain-informed machine learning, operator learning, and industrial foundation models.">
+<meta property="og:title" content="Peng (Ethan) Wang — Industrial AI Research"><meta property="og:description" content="Research in domain-informed machine learning and industrial foundation models."><meta property="og:image" content="https://peng1wang.github.io/images/ethan-wang.jpg">
+<link rel="stylesheet" href="/assets/profile/main.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="page">
+<header class="profile" id="about">
+<div><h1>Peng (Ethan) Wang</h1><p class="position">PhD Candidate in Industrial and Systems Engineering</p><p>University of Southern California<br>Los Angeles, California</p><p class="links"><a href="mailto:pwang341@usc.edu">pwang341@usc.edu</a><span aria-hidden="true"> · </span><a href="https://github.com/peng1wang">GitHub</a></p></div>
+<img class="portrait" src="/images/ethan-wang.jpg" alt="Peng (Ethan) Wang" width="150" height="150" fetchpriority="high">
+</header>
+<nav aria-label="Main navigation"><a href="#about">About</a><a href="#research">Research</a><a href="#publications">Publications</a><a href="#background">Education</a><a href="#service">Service</a></nav>
+<main id="main">
+<section aria-labelledby="about-title"><h2 id="about-title">About</h2><p>I am a PhD candidate in Industrial and Systems Engineering at the University of Southern California. My research focuses on <strong>domain-informed machine learning for industrial systems</strong>, including physical AI, embodied AI for industrial robotics, and industrial foundation models.</p><p>I study how the structure of physical processes can inform learning methods, and how models can adapt across industrial domains while retaining previously acquired knowledge. Before joining USC, I received my master’s and bachelor’s degrees in Industrial Engineering from Shanghai Jiao Tong University.</p></section>
+<section id="research"><h2>Research</h2><p>My dissertation is titled <em>Domain-Informed Machine Learning Towards Industrial Foundation Models</em>. My current research directions include:</p><ul class="research-list"><li><strong>Structured operator learning.</strong> Decomposing heterogeneous engineering profiles into recurring primitives, learning primitive-specific operators, and composing their predictions to model industrial process responses.</li><li><strong>Feature-space adaptation.</strong> Studying how fine-tuning direction affects representation shift and forgetting, with the goal of balancing adaptation to new domains and retention of prior knowledge.</li><li><strong>Continual cross-domain learning.</strong> Reusing existing representations and selectively expanding them as new industrial domains arrive, toward industrial foundation models.</li></ul></section>
+<section id="publications"><h2>Selected Publications &amp; Manuscripts</h2><p class="section-note">First author on all works listed below.</p><ol class="publications"><li><h3>Primitive-Structured Operator Learning for Limited and Heterogeneous Engineering Profile Data</h3><p><em>IEEE Transactions on Automation Science and Engineering</em> — Major revision.</p></li><li><h3>Feature Space Adaptation for Mitigating Forgetting in Model Fine-Tuning</h3><p><em>NeurIPS 2026</em> — Under review.</p></li><li><h3><a href="https://www.sciencedirect.com/science/article/pii/S0360544223001627">Probabilistic power curve estimation based on meteorological factors and density LSTM</a></h3><p><em>Energy</em>, 2023, Article 126768.</p><p class="paper-links"><a href="/paper2.pdf">[Paper]</a> <a href="https://github.com/peng1wang/Density-LSTM">[Code]</a></p></li></ol></section>
+<section id="background"><h2>Education</h2><div class="education"><article><div><h3>University of Southern California</h3><p>PhD Candidate, Industrial and Systems Engineering<br><span class="muted">GPA: 4.0</span></p></div><p class="date">Aug 2024 – Aug 2027 (expected)</p></article><article><div><h3>Shanghai Jiao Tong University</h3><p>Master’s, Industrial Engineering</p></div><p class="date">Sep 2021 – Mar 2024</p></article><article><div><h3>Shanghai Jiao Tong University</h3><p>Bachelor’s, Industrial Engineering</p></div><p class="date">Sep 2017 – Jul 2021</p></article></div></section>
+<section id="service"><h2>Academic Service</h2><p><strong>Conference reviewer</strong></p><ul><li>International Conference on Machine Learning (ICML), 2026</li><li>Conference on Neural Information Processing Systems (NeurIPS), 2026</li></ul></section>
+<section id="honors"><h2>Honors &amp; Awards</h2><ul><li>Outstanding Graduate of Shanghai (top 5%)</li><li>National First Prize, CUMCM (top 1%)</li><li>MCM Finalist (top 1%)</li></ul></section>
+<section id="contact"><h2>Contact</h2><p>Email: <a href="mailto:pwang341@usc.edu">pwang341@usc.edu</a></p></section>
+</main><footer>Peng (Ethan) Wang · University of Southern California</footer>
+</div></body></html>

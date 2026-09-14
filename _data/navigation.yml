@@ -1,13 +1,13 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
+  - title: "Home"
+    url: /
   - title: "Research"
-    url: /portfolio/
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /#research
+  - title: "Publications"
+    url: /#publications
+  - title: "Education"
+    url: /#background
+  - title: "Service"
+    url: /#service
   - title: "Contact"
-    url: /contact/
+    url: /#contact

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Peng's Personal Homepage"
+title                    : "Peng (Ethan) Wang | Industrial AI"
 title_separator          : "-"
-name                     : &name "Wang Peng"
-description              : &description "personal description"
+name                     : &name "Peng (Ethan) Wang"
+description              : &description "Domain-informed machine learning and industrial foundation models."
 url                      : https://peng1wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peng1wang/peng1wang.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Peng"
-  avatar           : "touxiang.png"
-  bio              : "Scientific Researcher"
-  location         : "Shanghai, China"
+  name             : "Peng (Ethan) Wang"
+  avatar           : "ethan-wang.jpg"
+  bio              : "PhD Candidate at USC"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "a17762062495@sjtu.edu.cn"
+  email            : "pwang341@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
